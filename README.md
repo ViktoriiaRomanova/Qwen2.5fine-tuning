@@ -19,7 +19,7 @@ The model is trained to detect and describe:
 ### Output (JSON)
 ```json
 {
-  "watermarks": int,
+  "watermarks": "int",
   "text": "str",
   "main object": "str",
   "style": "str"
